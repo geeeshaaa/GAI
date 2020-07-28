@@ -1,0 +1,4 @@
+﻿  ГАІ.cpp
+S:\IT\ГАІ\ГАІ\ГАІ.cpp(39,1): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+S:\IT\ГАІ\ГАІ\ГАІ.cpp(39,1): warning C4154: deletion of an array expression; conversion to pointer supplied
+  ГАІ.vcxproj -> S:\IT\ГАІ\Debug\ГАІ.exe
